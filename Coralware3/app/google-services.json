@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423493962088",
+    "firebase_url": "https://coralware-d3927.firebaseio.com",
+    "project_id": "coralware-d3927",
+    "storage_bucket": "coralware-d3927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423493962088:android:f467ab1d1ab4b267be2edd",
+        "android_client_info": {
+          "package_name": "standrews_shinescreen.coralware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423493962088-ilg9g5h205v4s6i0r7gh39l0fqmaf1dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "standrews_shinescreen.coralware",
+            "certificate_hash": "e89c9cd3ffb96a58476024d13bb88c9567289be3"
+          }
+        },
+        {
+          "client_id": "423493962088-l5uaa2059v767oeaf7a3u72v6ufqnc1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKdmGUW4zrMM-b8kfJeJumWnZl_y3opE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423493962088-l5uaa2059v767oeaf7a3u72v6ufqnc1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
